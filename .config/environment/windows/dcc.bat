@@ -23,7 +23,7 @@ echo.
 powershell write-host -foregroundcolor White "Cloud VFX Server"
 echo.
 echo Valentin Beaumont - valentin.onze@gmail.com
-echo https://github.com/healkeiser/cloud_vfx_server
+echo https://github.com/healkeiser/fxserver
 echo.
 echo ===========================================================================
 echo.
