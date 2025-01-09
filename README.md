@@ -3,7 +3,7 @@
   <a href="https://github.com/healkeiser/cloud_vfx_server">
     <img src="https://cdn-icons-png.flaticon.com/512/2345/2345350.png" alt="Logo" width="80" ></a>
 
-  <h3 align="center">Cloud VFX Server</h3>
+  <h3 align="center">fxserver</h3>
 
   <p align="center">
     Setup cloud as a VFX server.
